@@ -1,0 +1,347 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif&display=swap');
+@font-face {
+   font-family: 'TTBerlinerins';
+   src: url('../fonts/TTBerlinerins-Grotesk.woff2') format('woff2'),
+       url('../fonts/TTBerlinerins-Grotesk.woff') format('woff');
+   font-weight: normal;
+   font-style: normal;
+   font-display: swap;
+}
+
+
+.name {
+   color: brown;
+   font-size: 30px;
+   padding: 0 0 0 35px;
+   font-family: 'Noto Serif', serif;
+   font-size: 30px;
+}
+.navigation {
+   color: whitesmoke;
+   font-family: 'Noto Serif';
+   font-size: 18px;
+   font-weight: 800;
+   margin-left: 600px;
+   margin-top: 43px;
+   display: inline-block;
+}
+.navigation_2 {
+   color: whitesmoke;
+   font-family: 'Noto Serif';
+   font-size: 18px;
+   font-weight: 800;
+   margin-left: 600px;
+   display: inline-block;
+}
+.navigation_3 {
+   color: whitesmoke;
+   font-family: 'Noto Serif';
+   font-size: 18px;
+   font-weight: 800;
+   margin-left: 600px;
+   display: inline-block;
+}
+.greetings {
+   background-color: black;
+   padding-bottom: 60px; 
+   
+}
+.tarantino {
+   text-transform: uppercase;
+   font-size: 30px;
+   text-align: center;
+}
+.preview {
+   text-align: center;
+   text-transform: uppercase;
+   background-color: yellow;
+   font-size: 25px;
+}
+.kill {
+   text-transform: uppercase;
+   text-align: center;
+   margin-bottom: -160px;
+   font-size: 590px;
+   color: black;
+   margin-top: -70px;
+}
+.bill {
+   text-transform: uppercase;
+   text-align: center;
+   margin-bottom: -960px;
+   font-size: 590px;
+}
+.umathurman {
+   text-align: center;
+   background-color: yellow;
+   }
+.actors_1 {
+   color: black;
+   background-color: yellow;
+   font-size: 50px;
+   text-align: center;
+   text-transform: uppercase;
+}
+.actors_2 {
+   color: black;
+   background-color: yellow;
+   font-size: 50px;
+   text-align: center;
+   text-transform: uppercase; 
+}
+.actors_3 {
+   color: black;
+   background-color: yellow;
+   font-size: 50px;
+   text-align: center;
+   text-transform: uppercase;
+}
+.movies_block {
+   padding-top: 15px;
+   padding-bottom: 15px;
+   text-align: center;
+   background-color: rgb(95, 95, 95);
+}
+.movies_list {
+   color: white;
+   font-size: 20px;
+}
+.first_poster {
+  overflow: auto;
+  display: inline-block;
+  max-width: 500px;
+  margin-bottom: 80px;
+  height: 327px;
+  font-family: 'Noto Serif', serif;
+  font-size: 19px;
+  font-weight: 700;
+  background-color: rgba(250, 241, 216, 0.555);
+}
+.second_poster {
+   display: block;
+   margin: 0 0 0 auto;
+}
+.second_poster_2 {
+  overflow: auto;
+  display: block;
+  max-width: 500px;
+  height: 327px;
+  font-family: 'Noto Serif', serif;
+  font-size: 19px;
+  font-weight: 700;
+  margin: -327px 220px 80px auto;
+  background-color: rgba(250, 241, 216, 0.555);
+}
+.third_poster {
+   overflow: auto;
+   display: inline-block;
+   max-width: 500px;
+   margin-bottom: 80px;
+   height: 327px;
+   font-family: 'Noto Serif', serif;
+   font-size: 19px;
+   font-weight: 700;
+   background-color: rgba(250, 241, 216, 0.555);
+}
+.fourth_poster {
+   display: block;
+   margin: 0 0 0 auto;
+}
+.fourth_poster_2 {
+  overflow: auto;
+  display: block;
+  max-width: 500px;
+  height: 327px;
+  font-family: 'Noto Serif', serif;
+  font-size: 19px;
+  font-weight: 700;
+  margin: -327px 220px 80px auto;
+  background-color: rgba(250, 241, 216, 0.555);
+}
+.fifth_poster {
+   overflow: auto;
+   display: inline-block;
+   max-width: 500px;
+   margin-bottom: 80px;
+   height: 327px;
+   font-family: 'Noto Serif', serif;
+   font-size: 19px;
+   font-weight: 700;
+   background-color: rgba(250, 241, 216, 0.555);
+}
+.sixth_poster {
+   display: block;
+   margin: 0 0 0 auto;
+}
+.sixth_poster_2 {
+  overflow: auto;
+  display: block;
+  max-width: 500px;
+  height: 327px;
+  font-family: 'Noto Serif', serif;
+  font-size: 19px;
+  font-weight: 700;
+  margin: -327px 220px 80px auto;
+  background-color: rgba(250, 241, 216, 0.555);
+}
+.seventh_poster {
+   overflow: auto;
+   display: inline-block;
+   max-width: 500px;
+   margin-bottom: 80px;
+   height: 327px;
+   font-family: 'Noto Serif', serif;
+   font-size: 19px;
+   font-weight: 700;
+   background-color: rgba(250, 241, 216, 0.555);
+}
+.eigth_poster {
+   display: block;
+   margin: 0 0 0 auto;
+}
+.eigth_poster_2 {
+   overflow: auto;
+   display: block;
+   max-width: 500px;
+   height: 327px;
+   font-family: 'Noto Serif', serif;
+   font-size: 19px;
+   font-weight: 700;
+   margin: -327px 220px 80px auto;
+   background-color: rgba(250, 241, 216, 0.555);
+}
+.ninth_poster {
+   overflow: auto;
+   display: inline-block;
+   max-width: 500px;
+   margin-bottom: 80px;
+   height: 327px;
+   font-family: 'Noto Serif', serif;
+   font-size: 19px;
+   font-weight: 700;
+   background-color: rgba(250, 241, 216, 0.555);
+}
+.tenth_poster {
+   display: block;
+   margin: 0 0 0 auto;
+}
+.tenth_poster_2 {
+   overflow: auto;
+   display: block;
+   max-width: 500px;
+   height: 327px;
+   font-family: 'Noto Serif', serif;
+   font-size: 19px;
+   font-weight: 700;
+   margin: -327px 220px 50px auto;
+   background-color: rgba(250, 241, 216, 0.555);
+}
+.biography {
+   padding-top: 15px;
+   padding-bottom: 15px;
+   text-align: center;
+   background-color: rgb(95, 95, 95);
+}
+.Qbiography {
+   color: white;
+   font-size: 20px;
+}
+.biography_2 {
+  display: block;
+  padding: 20px 40px;
+  font-family: 'Noto Serif', serif;
+  font-size: 20px;
+}
+.biography_background {
+   background-color: rgb(246, 248, 240);
+}
+.Tarantino_pic {
+   text-align: center;
+   padding-top: 50px;
+}
+.signature {
+   text-align: center;
+   padding-bottom: 100px;
+}
+.black_bottom {
+background-color: black;
+padding-top: 40px;
+padding-bottom: 40px;
+color: white;
+text-align: center;
+font-size: 22px;
+}
+/*----------Home Practice-----------*/
+
+.hi {
+   display: block;
+   font-size: 25px;
+}
+.text {
+   display: inline;
+   font-size: 25px;
+   max-height: 200px;
+   max-width: 200px;
+   margin: 15px;
+}
+.link {
+display: block;
+padding-bottom: 30px;
+font-size: 25px;
+max-width: 70px;
+
+}
+.p_back {
+
+   padding: 10px;
+}
+.p {
+   display: inline;
+   font-size: 25px;
+   max-width: 100px;
+   margin-right: 30px;
+   background-color: white;
+}
+.p_2 {
+   display: inline;
+   font-size: 25px;
+   max-width: 100px;
+   margin-right: 30px;
+   background-color: white;
+}
+.p_3 {
+   display: inline;
+   font-size: 25px;
+   max-width: 100px;
+   margin-right: 30px;
+   background-color: white;
+}
+.p_4 {
+   display: inline;
+   font-size: 25px;
+   max-width: 100px;
+   margin-right: 30px;
+   background-color: white;
+}
+.p_5 {
+   display: inline;
+   font-size: 25px;
+   max-width: 100px;
+   background-color: white;
+}
+.text_ex {
+   font-size: 25px;
+   padding: 30px;
+}
+.text_ex_2 {
+   font-size: 25px;
+   padding: 30px;
+   margin-top: -75px;
+}
+.l_text {
+   display: block;
+   overflow: auto;
+   font-size: 25px;
+   max-height: 200px;
+   width: 200px;
+}
